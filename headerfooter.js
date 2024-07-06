@@ -7,6 +7,8 @@ class DynHeader extends HTMLElement {
         <nav>
             <ul>
                 <li><a href="/index.html">Home</a></li>
+                <li><a href="/development.html">Development</a></li>
+                <li><a href="/photography.html">Photography</a></li>
                 <li><a href="/contact.html">Contact</a></li>
             </ul>
         </nav>
