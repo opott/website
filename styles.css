@@ -1,8 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300..700&display=swap");
 
-body, html {
-  font-family: Signika Negative, sans-serif;
+body,
+html {
+  font-family:
+    Signika Negative,
+    sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -74,14 +77,14 @@ footer {
 .hero {
   position: relative;
   height: 80.19vh;
-  background: url('img/pexels-ompot-23962962.jpg') center center/cover no-repeat;
+  background: url("img/pexels-ompot-23962962.jpg") center center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
   color: white;
 }
 .hero::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
