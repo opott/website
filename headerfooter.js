@@ -1,5 +1,5 @@
 class DynHeader extends HTMLElement {
-  connectedCallback () {
+  connectedCallback() {
     this.innerHTML = `
         <link rel="stylesheet" href="/styles.css">
         <header>
@@ -13,20 +13,20 @@ class DynHeader extends HTMLElement {
             </ul>
         </nav>
         </header>
-        `
+        `;
   }
 }
 
 class DynFooter extends HTMLElement {
-  connectedCallback () {
+  connectedCallback() {
     this.innerHTML = `
         <link rel="stylesheet" href="/styles.css">
         <footer>
             <p>&copy; 2024 Oliver Potter. All rights reserved.</p>
         </footer>
-        `
+        `;
   }
 }
 
-customElements.define('dyn-header', DynHeader)
-customElements.define('dyn-footer', DynFooter)
+customElements.define("dyn-header", DynHeader);
+customElements.define("dyn-footer", DynFooter);
