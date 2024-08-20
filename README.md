@@ -21,9 +21,9 @@ My personal portfolio website.
 
 Here're some of the project's best features:
 
-* Modern
-* Simple
-* Easy to Use
+- Modern
+- Simple
+- Easy to Use
 
 ## 🍰 Contribution Guidelines:
 
@@ -33,9 +33,9 @@ I'd love to see your contributions! Please make sure you are not heavily modifyi
 
 Technologies used in the project:
 
-* HTML5
-* CSS3
-* JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 ## 🛡️ License:
 
