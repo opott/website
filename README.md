@@ -14,29 +14,25 @@
 
 <img src="https://cloud-nzeaqnccf-hack-club-bot.vercel.app/0image.png" alt="project-screenshot" width="1000" height="400/">
 
-  
-  
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
 
-*   Modern
-*   Simple
-*   Easy to Use
+- Modern
+- Simple
+- Easy to Use
 
 <h2>🍰 Contribution Guidelines:</h2>
 
 I'd love to see your contributions! Please make sure you are not heavily modifying the content of the website. Any style and code contributions are welcomed.
 
-  
-  
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
 
-*   HTML5
-*   CSS3
-*   JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 <h2>🛡️ License:</h2>
 
