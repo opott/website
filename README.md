@@ -1,43 +1,42 @@
-<h1 align="center" id="title">Personal Website</h1>
+# Personal Website
 
-<p align="center"><img src="https://socialify.git.ci/opott/opott.github.io/image?description=1&amp;font=Raleway&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+![project-image](https://socialify.git.ci/opott/opott.github.io/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
-<p id="description">My personal portfolio website.</p>
+My personal portfolio website.
 
-<p align="center"><img src="https://img.shields.io/github/deployments/opott/opott.github.io/github-pages?style=for-the-badge&amp;label=deployment" alt="shields"><img src="https://img.shields.io/github/commit-activity/m/opott/opott.github.io?style=for-the-badge" alt="shields"><img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;color=grey" alt="shields"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&amp;logo=css3&amp;logoColor=white&amp;color=grey" alt="shields"></p>
+![shields](https://img.shields.io/github/deployments/opott/opott.github.io/github-pages?style=for-the-badge&label=deployment)
+![shields](https://img.shields.io/github/commit-activity/m/opott/opott.github.io?style=for-the-badge)
+![shields](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=white&color=grey)
+![shields](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=white&color=grey)
 
-<h2>🚀 Demo</h2>
+## 🚀 Demo
 
 [https://opott.github.io/](https://opott.github.io/)
 
-<h2>Project Screenshots:</h2>
+## Project Screenshots:
 
-<img src="https://cloud-nzeaqnccf-hack-club-bot.vercel.app/0image.png" alt="project-screenshot" width="1000" height="400/">
+![project-screenshot](https://cloud-nzeaqnccf-hack-club-bot.vercel.app/0image.png)
 
-  
-  
-<h2>🧐 Features</h2>
+## 🧐 Features
 
 Here're some of the project's best features:
 
-*   Modern
-*   Simple
-*   Easy to Use
+* Modern
+* Simple
+* Easy to Use
 
-<h2>🍰 Contribution Guidelines:</h2>
+## 🍰 Contribution Guidelines:
 
 I'd love to see your contributions! Please make sure you are not heavily modifying the content of the website. Any style and code contributions are welcomed.
 
-  
-  
-<h2>💻 Built with</h2>
+## 💻 Built with
 
 Technologies used in the project:
 
-*   HTML5
-*   CSS3
-*   JavaScript
+* HTML5
+* CSS3
+* JavaScript
 
-<h2>🛡️ License:</h2>
+## 🛡️ License:
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3
